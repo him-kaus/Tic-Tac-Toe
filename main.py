@@ -118,5 +118,5 @@ while True:
     print("CPU has placed:")
     print_board(game_board)
     if check_win(game_board):
-        print(winner, "WON!")
+        print(winner, "WON!!")
         break
